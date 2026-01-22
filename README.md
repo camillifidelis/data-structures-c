@@ -1,29 +1,30 @@
-<h1>
-  <img src="./img/Data.png">
-</h1>
+<div align="center">
+  <h1><code>─── DATA-STRUCTURES-C ───</code></h1>
+  <p>Estudo de algoritmos, gestão de memória e implementação de estruturas de dados dinâmicas em linguagem C.</p>
+</div>
 
-## About
-This repository is about Udemy's C data structures course. I performed it in 2023 fully online. 
-My goal was to learn about the main data structures and how to implement them.
-Teacher: Leonardo de Abreu Schmidt.
+---
 
-## Languages and Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+## 📖 Sobre
+Repositório dedicado ao aprendizado de algoritmos e estruturas de dados (Udemy - Prof. Leonardo de Abreu Schmidt). O foco foi o domínio de ponteiros e alocação dinâmica para construir estruturas eficientes.
 
+## 🛠 Tecnologia
+- Linguagem C
 
-## Learned Content
+## 🧠 Conteúdo Implementado
+- **Fundamentos:** Variáveis, funções, vetores e matrizes.
+- **Memória:** Ponteiros e Alocação Dinâmica.
+- **Estruturas:** Listas, Filas, Pilhas e Árvores.
+- **Lógica:** Recursão e Structs.
 
-1. Introduction to C language <br>
-  a. Variables and data types <br>
-  b. Conditional structures <br>
-  c. Loops of Repetition <br>
-  d. Functions <br>
-  e. Vectors and Matrices <br>
-2. Pointers
-3. Structures
-4. Dynamic allocation
-5. Lists, queues and stacks
-6. Recursion
-7. Trees
+## 🎓 Certificação
+- [Visualizar Certificado](https://github.com/Camifid/data-structures-c/files/12555400/CertificadoUdemy_AED.pdf)
 
-[Certificado de Conclusão](https://github.com/Camifid/data-structures-c/files/12555400/CertificadoUdemy_AED.pdf)
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camillifidelis/cami-projeto-mongo/main/assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camillifidelis/cami-projeto-mongo/main/assets/logo-light.svg">
+    <img alt="CamiDev Logo" src="https://raw.githubusercontent.com/camillifidelis/cami-projeto-mongo/main/assets/logo-dark.svg" width="250">
+  </picture>
+</div>
